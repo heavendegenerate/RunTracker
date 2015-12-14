@@ -1,8 +1,6 @@
 package com.bignerdranch.android.runtracker;
 
 
-import com.bignerdbranch.android.runtracker.R;
-
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.util.Log;
